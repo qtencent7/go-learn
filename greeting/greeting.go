@@ -1,0 +1,4 @@
+package greeting
+
+func Greeting() {
+}
